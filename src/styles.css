@@ -24,7 +24,7 @@
   --danger: #d64545;
   --warn: var(--lav-deep);
   --tabbar-h: 64px;
-  font-family: 'Pretendard', 'Malgun Gothic', system-ui, sans-serif;
+  font-family: 'Pretendard Variable', Pretendard, 'Malgun Gothic', system-ui, sans-serif;
   color: var(--text);
   background: var(--bg);
   -webkit-text-size-adjust: 100%;

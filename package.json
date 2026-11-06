@@ -8,7 +8,8 @@
     "phone": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vite build && node scripts/deploy.mjs"
+    "deploy": "vite build && node scripts/deploy.mjs",
+    "demo": "vite --mode demo --host --port 5191"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.4",
