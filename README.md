@@ -1,5 +1,7 @@
 # 수업 관찰 기록 (React + Supabase)
 
+### 👉 [사이트 바로가기: onezerozerocom.github.io/observation-notes](https://onezerozerocom.github.io/observation-notes/)
+
 수업 중에 학생 관찰 내용을 짧게 기록해 두고, 학기 말에 학생별로 모아 세특 초안 작성에 활용하는 웹앱입니다.
 여러 교사가 각자 계정으로 사용하며, **교사는 자기 학급·학생·기록만 볼 수 있습니다**(Supabase RLS).
 
